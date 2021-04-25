@@ -2,7 +2,7 @@ My \#30DayChartChallenge contributions - April 2021
 ================
 
 Welcome to my \#30DayChartChallenge. Clicking on a plot will take you to
-the code I wrote to build it. Happy browsing, and if you like what you
+the code I wrote to build it. If you like what you
 see, [get in touch](https://twitter.com/pritikadasgupta)!
 
 ## What is the April 2021 \#30DayChartChallenge?
