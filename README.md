@@ -8,7 +8,7 @@ see, [get in touch](https://twitter.com/pritikadasgupta)!
 ## What is the April 2021 \#30DayChartChallenge?
 
 <p align="center">
-<img src="Day1/April2021/chart-challenge.jpg"/></a>
+<img src="April2021/chart-challenge.jpg"/></a>
 </p>
 
 This challenge is organised by [Dominic
